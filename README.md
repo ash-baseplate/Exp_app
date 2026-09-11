@@ -6,8 +6,8 @@ How to run
 
 1. Open a terminal in the workspace root.
 2. Run: `cd java-cli`
-3. Run: `build.bat`
-4. Run: `run.bat`
+3. Run: `build.sh`
+4. Run: `run.sh`
 
 The CLI supports:
 - listing nodes
